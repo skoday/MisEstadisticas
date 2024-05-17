@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo">Analsis del uso de aplicaciones</string>
+    <string name="permisos">Dar permisos a la app</string>
+    <string name="Consentimiento">Acepto los terminos de privacidad \ny comparto mis datos</string>
+    <string name="enviar">Enviar datos</string>
+</resources>
